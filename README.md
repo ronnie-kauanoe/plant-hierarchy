@@ -1,6 +1,8 @@
 # Modeling Hawaiian Plants as a Java Class Heirarchy for Aina-Based Learning
 #### Advising Faculty: Lisa Miller | Student: Ronnie Kaunaoe
 
+<img class="ui image" src="uml.jpg">
+
 ## Purpose
 
 [INSERT TEXT HERE]
