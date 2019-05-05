@@ -2,7 +2,7 @@ import java.util.Random;
 import java.text.DecimalFormat;
 
 /**
-* Parent class for Plant objects.
+* Parent superclass for Plant objects.
 * @author Ronnie Kauanoe
 * @since 2/22/2019
 */
